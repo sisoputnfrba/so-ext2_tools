@@ -1,4 +1,4 @@
-ext2_tools
+Introducción
 ==========
 
-Utilidades de Ext2
+Este projecto contiene cosas utiles a la hora de implementar Ext2
